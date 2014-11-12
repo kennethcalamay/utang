@@ -1,0 +1,12 @@
+<Alloy>
+	<Window title="Listahan">
+
+		<TableView>
+			<Require src="debts/_row" />
+		</TableView>
+		<RightNavButton platform="ios">
+			<Button>Dagdag</Button>
+		</RightNavButton>
+
+	</Window>
+</Alloy>

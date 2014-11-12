@@ -1,0 +1,6 @@
+<Alloy>
+	<TableViewRow>
+		<Label class="left name">Kenneth</Label>
+		<Label class="right debt">5.00</Label>
+	</TableViewRow>
+</Alloy>

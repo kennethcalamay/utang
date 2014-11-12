@@ -1,0 +1,23 @@
+"TableViewRow": {
+	height: 40,
+	hasChild: true,
+	verticalAlign: "center"
+}
+
+".left": {
+	left: "5%"
+}
+
+".right": {
+	right: "5%"
+}
+
+".name" : {
+	
+}
+
+".debt" : {
+	color: "white",
+	font: 12,
+	backgroundColor: "red",
+}
